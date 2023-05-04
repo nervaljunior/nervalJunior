@@ -1,5 +1,5 @@
 ### Hi there 👋
-#Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 # my name is Nerval Junior, and i love programming and technology.
 
 ##🥇 About Me:
