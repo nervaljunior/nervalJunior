@@ -1,7 +1,8 @@
 ### Hi there 👋
+# my name is Nerval Junior, and i love programming and technology.
 
 
-
+## 💫 About Me:
 - 🔭 estudante de engenharia da computação ...
 - 🌱 estou estudando typescript ...
 - 👯 sou pesquisador da Universidade Federal do Maranhão ...
@@ -11,7 +12,6 @@
 - 😄 bacharelado em ciência e tecnologia ...
 - ⚡ interessado por robótica...
 
-## Olá!!! meu nome é Nerval Junior, e amo programação e tecnologia!
 <div align="center">
   <a href="https://github.com/nervaljunior">
  
@@ -36,3 +36,28 @@
   <a href = "mailto:nervalzin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://www.linkedin.com/in/nerval-junior-897b88183" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+  
+  
+
+
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nervaljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nervaljunior&theme=dark&hide_border=false" /><br/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&layout=compact&langs_count=7&theme=dark" />
+</div>
+
+ <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Teles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Teles-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Teles-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Teles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Teles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Teles-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Teles-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+
+##
+
