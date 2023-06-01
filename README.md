@@ -18,12 +18,11 @@
 
 </div>
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="JUNIOR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JUNIOR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JUNIOR-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JUNIOR-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JUNIOR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JUNIOR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JUNIOR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
   
@@ -36,17 +35,27 @@
   <a href = "mailto:nervalzin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://www.linkedin.com/in/nerval-junior-897b88183" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-  
   
 
-
-
-<div align="center">
+  
+ <p align="center"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nervaljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nervaljunior&theme=dark&hide_border=false" /><br/>
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&layout=compact&langs_count=7&theme=dark" />
-</div>
+<a href="https://github.com/nervaljunior"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nervaljunior&theme=transparent&bg_color=blue" /> 
+</a>
+
+   <a href="https://github.com/nervaljunior"> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /> 
+   </a> 
+ </p> 
+  
+ <p align="center"> 
+   <a href="https://github.com/nervaljunior"> 
+     <img src="https://komarev.com/ghpvc/?username=nervaljunior&color=blue&style=flat)" /> 
+   </a> 
+ </p> 
 
 ##
   
@@ -75,23 +84,3 @@
  [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/nervaljunior) 
   
 
- <p align="center"> 
-   <a href="https://github.com/nervaljunior"> 
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nervaljunior&theme=transparent" /> 
-   </a> 
-   <a href="https://github.com/nervaljunior"> 
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nervaljunior&hide_border=true&card_width=338&theme=transparent" /> 
-   </a> 
-   <a href="https://github.com/nervaljunior"> 
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nervaljunior&theme=transparent" /> 
-   </a> 
-   <a href="https://github.com/nervaljunior"> 
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /> 
-   </a> 
- </p> 
-  
- <p align="center"> 
-   <a href="https://github.com/nervaljunior"> 
-     <img src="https://komarev.com/ghpvc/?username=nervaljunior&color=blue&style=flat)" /> 
-   </a> 
- </p> 
