@@ -24,7 +24,6 @@
   <img align="center" alt="JUNIOR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JUNIOR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JUNIOR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JUNIOR-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 </div>
   
@@ -75,7 +74,7 @@
  [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/nervaljunior) 
  [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/nervaljunior) 
   
- <details> 
+
  <p align="center"> 
    <a href="https://github.com/nervaljunior"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nervaljunior&theme=transparent" /> 
@@ -90,7 +89,6 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /> 
    </a> 
  </p> 
- </details> 
   
  <p align="center"> 
    <a href="https://github.com/nervaljunior"> 
