@@ -36,27 +36,7 @@
   <a href="http://www.linkedin.com/in/nerval-junior-897b88183" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-
-  
- <p align="center"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nervaljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nervaljunior&theme=dark&hide_border=false" /><br/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&layout=compact&langs_count=7&theme=dark" />
-<a href="https://github.com/nervaljunior"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nervaljunior&theme=transparent&bg_color=blue" /> 
-</a>
-
-   <a href="https://github.com/nervaljunior"> 
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /> 
-   </a> 
- </p> 
-  
- <p align="center"> 
-   <a href="https://github.com/nervaljunior"> 
-     <img src="https://komarev.com/ghpvc/?username=nervaljunior&color=blue&style=flat)" /> 
-   </a> 
- </p> 
-
+ 
 ##
   
  ### Languages 
@@ -84,3 +64,26 @@
  [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/nervaljunior) 
   
 
+
+  
+
+  
+ <p align="center"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nervaljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nervaljunior&theme=dark&hide_border=false" /><br/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&layout=compact&langs_count=7&theme=dark" />
+<a href="https://github.com/nervaljunior"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nervaljunior&theme=transparent&bg_color=blue" /> 
+</a>
+
+   <a href="https://github.com/nervaljunior"> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /> 
+   </a> 
+ </p> 
+  
+ <p align="center"> 
+   <a href="https://github.com/nervaljunior"> 
+     <img src="https://komarev.com/ghpvc/?username=nervaljunior&color=blue&style=flat)" /> 
+   </a> 
+ </p> 
+##
