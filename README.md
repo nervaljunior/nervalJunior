@@ -63,9 +63,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nervaljunior&theme=transparent&bg_color=blue" /> 
 </a>
 
-   <a href="https://github.com/nervaljunior"> 
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /> 
-   </a> 
+   
  </p> 
   
  <p align="center"> 
@@ -73,4 +71,3 @@
      <img src="https://komarev.com/ghpvc/?username=nervaljunior&color=blue&style=flat)" /> 
    </a> 
  </p> 
-##
