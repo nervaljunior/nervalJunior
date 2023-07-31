@@ -1,6 +1,13 @@
+
+
+
+
+
 ### Hi there 👋
 ## Welcome to my GitHub profile!
 # my name is Nerval Junior, and i love programming and technology.
+
+I'm backend developer
 
 ## 🥇 About Me:
 - 🔭 computer engineering student ...
@@ -14,13 +21,14 @@
  
   
   ##
-### Github Stats 
+### 👥 Connect With Me
+
 <div> 
-  
-  <a href="https://instagram.com/nervalzin_d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="http://www.linkedin.com/in/nerval-junior-897b88183" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
   <a href = "mailto:nerval.junior@discente.ufma.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:nervalzin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://www.linkedin.com/in/nerval-junior-897b88183" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/nervalzin_d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 </div>
   
  
