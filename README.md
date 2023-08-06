@@ -1,13 +1,34 @@
-### Oi 👋
-## Bem-vindo ao meu perfil no GitHub!
-# meu nome é Nerval Junior, e adoro programação e tecnologia.
+### <h1 align="center" > Oi 👋, meu nome é Nerval Junior, e adoro programação e tecnologia. </h1>
 
-Sou desenvolvedor back-end
+## Bem-vindo ao meu perfil no GitHub!
+
+<h3 align="center">Um Desenvolvedor Back-end do Brasil</h3>
+
+<table align="right">
+  <tr>
+    <td height="43px">
+      <b>
+        <a href="README.md">Português 🇧🇷</a>
+      </b>
+    </td>
+  </tr>
+  <tr>
+    <td height="43px">
+      <a href="README-en.md">English 🇺🇸</a>
+    </td>
+  </tr>
+</table>
+
+<div align="left">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=nervaljunior&repo=nervaljunior&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do nerval junior" height="28px" />
+</div>
+
+---
 
 ## 🥇 Sobre mim:
 - 🔭 estudante de engenharia da computação ...
 
-- 😄 Estou estudando Typescript...
+- 😄 Atualmente estou aprendendo <strong style="color: #61DAFB;">React.js e TypeScript</strong>...
 
 - 💼 Sou pesquisador da Universidade Federal do Maranhão...
 
