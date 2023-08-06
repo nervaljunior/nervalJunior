@@ -65,14 +65,16 @@
   <a href = "mailto:nervalzin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/nervalzin_d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+<a href="https://discord.gg/nfDJVAF2" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
+</a>
+
+<a href="https://wa.me/55098981704429?text=boa%20noite,%20vim%20pelo%20github" target="_blank" style="display: inline-block; background-color: #25d366; color: #ffffff; text-decoration: none; padding: 8px; border-radius: 50%; font-weight: bold;"> Whatsapp</a>
+
 </div>
 
 <!--
-## Conecte-se comigo
 
-<a href="https://linkedin.com/in/murilonicemento/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murilonicemento/" height="30" width="40" />
-</a>
 <a href="https://www.hackerrank.com/murilo_nascimen3" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="murilo_nascimen3" height="30" width="40" />
 </a>
@@ -82,16 +84,10 @@
 <a href="https://dev.to/murilonicemento" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="murilonicemento" height="30" width="40" />
 </a>
-<a href="https://discord.com/users/1412" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
-</a>
-<a href="https://instagram.com/murilonicemento" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/murilonasciment22/" height="30" width="40" />
-</a>
-<a href="https://twitter.com/murilonicemento" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murilonicemento" height="30" width="40" />
-</a>
+
+
 -->
+
 ## Linguagens e Ferramentas
   
 | Linguagens de programação | ML/DL               | Tecnologias e Frameworks | OS         | Banco de dados | Outras ferramentas |
