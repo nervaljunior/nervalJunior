@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ### <h1 align="center" > Oi 👋, meu nome é Nerval Junior, e adoro programação e tecnologia. </h1>
 
 ## Bem-vindo ao meu perfil no GitHub!
@@ -49,6 +43,19 @@
 - 💫Bacharel em Ciência e Tecnologia ...
 
 - ⚡ interessado em robótica e inteligência artificial...
+
+<!--
+- 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://my-portfolio-chi-nine.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">Meu Portfólio</a>
+-->
+
+<!-- Aqui está o código para exibir a música atual no Spotify no seu README. O projeto relacionado pode ser encontrado em https://github.com/nervaljunior/Spotify-Readme 
+
+<div align="left">
+  <a href="https://github.com/nervaljunior/Spotify-Readme">
+    <img src="https://spotify-readme-u8sa.vercel.app/api?theme=dark" alt="Música Atual no Spotify">
+  </a>
+</div>
+-->
   
   ##
 ### 👥 Conecte-se Comigo
@@ -90,13 +97,6 @@
      <img src="https://komarev.com/ghpvc/?username=nervaljunior&color=blue&style=flat)" /> 
    </a> 
  </p> 
-
-
-
-
-
-
-
 
 
 
