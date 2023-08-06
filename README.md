@@ -112,8 +112,8 @@
 
 
   
-| Linguagens de programação | ML/DL               | Tecnologias e Frameworks | OS         |
-|---------------------------|---------------------|--------------------------|------------|
+| Linguagens de programação | ML/DL               | Tecnologias e Frameworks | OS         |Banco de dados | Outras ferramentas|
+|---------------------------|---------------------|--------------------------|------------|---------------|-------------------|
 | ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python) | ![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas) | ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django) | ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux) |
 | ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript) | ![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy) | ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react) | ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows) |
 | ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch) | ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5) | |
