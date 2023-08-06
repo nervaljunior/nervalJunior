@@ -23,7 +23,7 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=nervaljunior&repo=nervaljunior&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do nerval junior" height="28px" />
 </div>
 
----
+
 
 ## 🥇 Sobre mim:
 - 🔭 estudante de engenharia da computação ...
