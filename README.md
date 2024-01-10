@@ -1,4 +1,16 @@
-### <h1 align="center" > Oi 👋, meu nome é Nerval Junior, e adoro programação e tecnologia. </h1>
+### <h1 align="center">Oi 👋, meu nome é Nerval Junior, e adoro programação e tecnologia.</h1>
+
+- 💼 Pesquisador associado na UFMA (Universidade Federal do Maranhão)
+- 🥇 Educação:
+  - Bacharel em Ciência e Tecnologia [UFMA](https://portalpadrao.ufma.br/)
+  - Graduando em Engenharia da Computação [UFMA](https://portalpadrao.ufma.br/)
+  - Mestrando em Engenharia Elétrica com foco em Engenharia de Software dirigida a modelos [UFMA](https://portalpadrao.ufma.br/)
+
+Grupos de Pesquisa: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](https://github.com/systemVITA)
+
+----
+
+### Estatísticas do Github
 
 ## Bem-vindo ao meu perfil no GitHub!
 
@@ -23,70 +35,43 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=nervaljunior&repo=nervaljunior&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do nerval junior" height="28px" />
 </div>
 
-
-
 ## 🥇 Sobre mim:
-- 🔭 estudante de engenharia da computação ...
-
+- 🔭 Estudante de Engenharia da Computação...
 - 😄 Atualmente estou aprendendo <strong style="color: #61DAFB;">React.js e TypeScript</strong>...
-
 - 💼 Sou pesquisador da Universidade Federal do Maranhão...
+- 🤔 Procurando um desafio com Data Science...
+- 📫 Entre em contato comigo:
+  - 💬 WhatsApp: +55(98)981704429
+  - 📫 E-mail: nerval1@hotmail.com
 
-- 🤔 Procurando um desafio com DataScience...
+- 💫 Bacharel em Ciência e Tecnologia...
+- ⚡ Interessado em robótica e inteligência artificial...
 
-- 📫 Entre em contato comigo: 
+##
 
-<div align="center"> 💬 whatsApp: +55(98)981704429 ...</div>
-
-<div align="center"> 📫 e-mail: neval1@hotmail.com...</div>
-
-- 💫Bacharel em Ciência e Tecnologia ...
-
-- ⚡ interessado em robótica e inteligência artificial...
-
-<!--
-- 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://my-portfolio-chi-nine.vercel.app/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">Meu Portfólio</a>
--->
-
-<!-- Aqui está o código para exibir a música atual no Spotify no seu README. O projeto relacionado pode ser encontrado em https://github.com/nervaljunior/Spotify-Readme 
-
-<div align="left">
-  <a href="https://github.com/nervaljunior/Spotify-Readme">
-    <img src="https://spotify-readme-u8sa.vercel.app/api?theme=dark" alt="Música Atual no Spotify">
-  </a>
-</div>
--->
-  
-  ##
 ### 👥 Conecte-se Comigo
 <div> 
-<a href="http://www.linkedin.com/in/nerval-junior-897b88183" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-  <a href = "mailto:nerval.junior@discente.ufma.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nervalzin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/nervalzin_d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="http://www.linkedin.com/in/nerval-junior-897b88183" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
+  </a>
+  <a href="mailto:nerval.junior@discente.ufma.br">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:nervalzin@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/nervalzin_d" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 
-<a href="https://discord.gg/nfDJVAF2" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
-</a>
+  <a href="https://discord.gg/nfDJVAF2" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
+  </a>
 
-<a href="https://wa.me/55098981704429?text=boa%20noite,%20vim%20pelo%20github" target="_blank" style="display: inline-block; background-color: #25d366; color: #ffffff; text-decoration: none; padding: 8px; border-radius: 50%; font-weight: bold;"> Whatsapp</a>
-
+  <a href="https://wa.me/55098981704429?text=boa%20noite,%20vim%20pelo%20github" target="_blank" style="display: inline-block; background-color: #25d366; color: #ffffff; text-decoration: none; padding: 8px; border-radius: 50%; font-weight: bold;">Whatsapp</a>
 </div>
 
-<!--
 
-<a href="https://www.hackerrank.com/murilo_nascimen3" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="murilo_nascimen3" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/20331668" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20331668" height="30" width="40" />
-</a>
-<a href="https://dev.to/murilonicemento" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="murilonicemento" height="30" width="40" />
-</a>
-
-
--->
 
 ## Linguagens e Ferramentas
   
