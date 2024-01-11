@@ -90,20 +90,31 @@ Grupos de Pesquisa: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](http
   
 
 
----
+# Nerval Junior
+
 ## Atividades
 <div align="center">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nervaljunior&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 </div>
 <br/><br/>
-  
- <p align="center"> 
+
+## Estatísticas
+<p align="center"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nervaljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nervaljunior&theme=dark&hide_border=false" /><br/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nervaljunior&theme=dark&hide_border=false" />
+</p>
+
+## Linguagens mais Utilizadas
+<p align="center">
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&layout=compact&langs_count=7&theme=dark" />
-<a href="https://github.com/nervaljunior"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nervaljunior&theme=transparent&bg_color=blue" /> 
-</a>
+</p>
+
+## Perfil Detalhado
+<p align="center">
+  <a href="https://github.com/nervaljunior"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nervaljunior&theme=transparent&bg_color=blue" /> 
+  </a>
+</p>
 
    
  </p> 
