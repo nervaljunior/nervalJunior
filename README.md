@@ -113,13 +113,7 @@ Research Groups: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](https:/
  </p>
 
 
-
-
-## Atividades
-
-![Atividades](./profile-3d-contrib/profile-night-green.svg)
-
-## Linguagens e Ferramentas
+## skills
 
 <div>
   <a href="https://skillicons.dev"   >
