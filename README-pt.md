@@ -127,3 +127,23 @@ Grupos de Pesquisa: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](http
  </p> 
 
 
+
+
+
+
+PRETENDO APRENDER :
+
+## Conhecimentos
+
+Database     | Programação |   ETL             | DataViz      |ML            | Cloud    | Big Data  | Outros
+------------ | ----------- | ------------------| -------------|--------------| -------- |-----------| ------
+PostgreSQL   | Python      | Talend            | Tableau      | Scikit‑Learn |  AWS     | Hadoop    | SAP
+SQLServer    | SQL         | Pentaho           | Lumira       | TensorFlow   |  IBM     |           | Sienge ERP
+Oracle       | R           | SAP BW            | QlikView     | NLP          |          |           | Nydus RH
+Hive         |             | Analysis Services | PowerBI      |              |          |           | Git
+MySQL        |             | Power Center      | BEx Query    |              |          |           | LaTeX
+Firebird     |             | Airflow           | Metabase     |              |          |           | API              
+SQLite       |             |                   | Data Studio  |              |          |           |               
+MongoDB      |             |                   |              |              |          |           |               
+Cassandra    |             |                   |              |              |          |           |         
+
