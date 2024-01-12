@@ -111,3 +111,19 @@ Research Groups: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](https:/
      <img src="https://komarev.com/ghpvc/?username=nervaljunior&color=blue&style=flat)" /> 
    </a> 
  </p>
+
+
+
+
+## Atividades
+
+![Atividades](./profile-3d-contrib/profile-night-green.svg)
+
+## Linguagens e Ferramentas
+
+<div>
+  <a href="https://skillicons.dev"   >
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,styledcomponents,typescript,php,mysql,git" />
+  </a>
+</div>
+
