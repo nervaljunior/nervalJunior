@@ -64,12 +64,13 @@ Research Groups: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](https:/
   <a href="https://instagram.com/nervalzin_d" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+    <a href="https://wa.me/+5598981704429?text=oi" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
   <a href="https://discord.gg/nfDJVAF2" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
   </a>
 
-  <a href="https://wa.me/+5598981704429?text=oi" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
 </div>
 
 
