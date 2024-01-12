@@ -69,7 +69,7 @@ Research Groups: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](https:/
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4882" height="30" width="40" />
   </a>
 
-  <a href="https://wa.me/55098981704429?text=boa%20noite,%20vim%20pelo%20github" target="_blank" style="display: inline-block; background-color: #25d366; color: #ffffff; text-decoration: none; padding: 8px; border-radius: 50%; font-weight: bold;">Whatsapp</a>
+  <a href="https://wa.me/+5598981704429?text=oi" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 
@@ -94,18 +94,26 @@ Research Groups: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](https:/
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nervaljunior&theme=react&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
 </div>
 <br/><br/>
-  
+
+## Statistics
  <p align="center"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nervaljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nervaljunior&theme=dark&hide_border=false" /><br/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&layout=compact&langs_count=7&theme=dark" />
+ </p> 
+ 
+ ## Most Used Languages
+<p align="center">
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&layout=compact&langs_count=16&theme=dark"/>
+</p>
+
+## Detailed Profile 
+ <p align="center"> 
 <a href="https://github.com/nervaljunior"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nervaljunior&theme=transparent&bg_color=blue" /> 
 </a>
 
    
  </p> 
-  
  <p align="center"> 
    <a href="https://github.com/nervaljunior"> 
      <img src="https://komarev.com/ghpvc/?username=nervaljunior&color=blue&style=flat)" /> 
@@ -113,7 +121,24 @@ Research Groups: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](https:/
  </p>
 
 
+
+Database     | Programação |   ETL             | DataViz      |ML            | Cloud    | Big Data  | Outros
+------------ | ----------- | ------------------| -------------|--------------| -------- |-----------| ------
+PostgreSQL   | Python      | Talend            | Tableau      | Scikit‑Learn |  AWS     | Hadoop    | SAP
+SQLServer    | SQL         | Pentaho           | Lumira       | TensorFlow   |  IBM     |           | Sienge ERP
+Oracle       | R           | SAP BW            | QlikView     | NLP          |          |           | Nydus RH
+Hive         |             | Analysis Services | PowerBI      |              |          |           | Git
+MySQL        |             | Power Center      | BEx Query    |              |          |           | LaTeX
+Firebird     |             | Airflow           | Metabase     |              |          |           | API              
+SQLite       |             |                   | Data Studio  |              |          |           |               
+MongoDB      |             |                   |              |              |          |           |               
+Cassandra    |             |                   |              |              |          |           |         
+
+
+
+
 ## skills
+
 
 <div>
   <a href="https://skillicons.dev"   >
