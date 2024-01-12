@@ -104,9 +104,10 @@ Grupos de Pesquisa: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](http
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nervaljunior&theme=dark&hide_border=false" />
 </p>
 
+
 ## Linguagens mais Utilizadas
 <p align="center">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior&layout=compact&langs_count=16&theme=dark"/>
 </p>
 
 ## Perfil Detalhado
@@ -180,3 +181,8 @@ Cassandra    |             |                   |              |              |  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesAlc&layout=compact&langs_count=8&theme=outrun"/>
 </p>-->
+
+
+
+
+ 
