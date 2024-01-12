@@ -130,13 +130,13 @@ Grupos de Pesquisa: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](http
 
 
 
-PRETENDO APRENDER :
 
 
 
 
 
-## Conhecimentos
+
+## PRETENDO APRENDER :
 
 Database     | Programação |   ETL             | DataViz      |ML            | Cloud    | Big Data  | Outros
 ------------ | ----------- | ------------------| -------------|--------------| -------- |-----------| ------
