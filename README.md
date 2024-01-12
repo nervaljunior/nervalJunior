@@ -126,38 +126,3 @@ Grupos de Pesquisa: [LambdaGeo](https://github.com/LambdaGeo), [systemVITA](http
  </p> 
 
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior)
-
-*   Compact layout
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior\&layout=compact)
-
-*   Donut Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior\&layout=donut)](https://github.com/nervaljunior/github-readme-stats)
-
-*   Donut Vertical Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior\&layout=donut-vertical)](https://github.com/nervaljunior/github-readme-stats)
-
-*   Pie Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior\&layout=pie)](https://github.com/nervaljunior/github-readme-stats)
-
-*   Hidden progress bars
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nervaljunior\&hide_progress=true)
-
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nervaljunior)
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nervaljunior\&hide_progress=true)
-
-*   Compact layout
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nervaljunior\&layout=compact)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nervaljunior\&show_icons=true\&theme=radical)
